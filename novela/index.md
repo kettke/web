@@ -2,6 +2,7 @@
 layout: default
 title: Novela
 nav_order: 3
+has_children: true
 permalink: /novela/
 description: "Descubre la trilogía de Hanna: Hanna y los Reinos de Kettke, Hanna y la búsqueda de Sium y Hanna y la conquista de Kinoria. Novelas, relatos y leyendas del universo de Kettke."
 ---
