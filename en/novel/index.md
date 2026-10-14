@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Novel"
-nav_order: 2
+parent: "English Version"
+nav_order: 1
 has_children: true
 permalink: /en/novel/
 lang: en
