@@ -157,6 +157,10 @@ Así, la noche transcurrió despacio, como si ambos quisieran aprovechar los que
 
 —Yo curioso ser. Disculpas a ti pedir. Sólo una cosa querer saber… ¿Qué es aquello que tú transportar que tan valioso en el Gran Libro de Vendemur parece ser? — preguntó Narsak con una actitud casi ridícula, que parecía poco típica de un ser de su categoría.
 
+—Este buen momento no ser, tu curiosidad que esperar tendrá, pero el Gran Libro razón tener. Más valioso incluso de lo que tú puedes imaginar ser —contestó Gunuruk mientras entraba de nuevo en la cabaña para avisar a Hanna.
+
+Ella ya hacía unos minutos que se encontraba despierta, aunque simuló yacer aún dormida, pues quería hacer pensar a su amigo que su conversación con Narsak le había pasado desapercibida.
+
 ---
 
 [← Capítulo VIII](/novela/vol-1-hanna-y-los-reinos-de-kettke/capitulo-08/) · [Índice del volumen I](/novela/vol-1-hanna-y-los-reinos-de-kettke/) · [Capítulo X →](/novela/vol-1-hanna-y-los-reinos-de-kettke/capitulo-10/)
