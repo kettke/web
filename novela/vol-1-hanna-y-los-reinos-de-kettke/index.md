@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Vol. I — Hanna y los Reinos de Kettke"
