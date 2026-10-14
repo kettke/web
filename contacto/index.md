@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: Contacto
-nav_order: 7
+nav_order: 5
 permalink: /contacto/
 description: "Contacta con Hanna y los Reinos de Kettke para consultas, propuestas creativas, colaboraciones y derechos de uso."
 ---
