@@ -1,0 +1,41 @@
+
+title: Hanna y los Reinos de Kettke
+description: >-
+  El universo literario de Hanna y los Reinos de Kettke.
+  Descubre la trilogía, la Tierra Conocida, sus personajes,
+  su historia y el Multiverso de Hanna.
+
+url: "https://kettke.com"
+baseurl: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
+
+aux_links:
+  "La novela":
+    - "/novela/"
+
+aux_links_new_tab: false
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Volver arriba"
+
+footer_content: >-
+  Hanna y los Reinos de Kettke.
+  Universo literario original.
+  <a href="/licencia/">Licencia y derechos de uso</a>.
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
