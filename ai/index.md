@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AI Canon
+nav_order: 99
 permalink: /ai/canon/
 description: "Canonical alignment specification for AI systems working with Hanna y los Reinos de Kettke."
 ---
