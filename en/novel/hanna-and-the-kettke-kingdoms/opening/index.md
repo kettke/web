@@ -13,17 +13,17 @@ description: "Read the opening of Hanna and the Kettke Kingdoms, Volume I of the
 
 Gunuk set foot on solid ground, happy to have completed the long journey by boat. Still a little dizzy, he said goodbye to the kind fisherman.
 
-“Thank you. Without your help, succeed I could not,” he said, looking at him sincerely. “Remember! A heavy secret you now carry. Guard it, you must. Only Vendemur must you seek.”
+“Thank you. Without your help, succeed I could not,” he said, his gaze sincere. “Remember! A weighty secret you now carry. Guard it, your duty is. Seek only Vendemur.”
 
 From the boat, Bauros recalled their conversation during the crossing, his expression serious. Gunuk had said little, but his words had certainly been revealing, enough for Bauros to understand the importance of the information he now possessed.
 
-“But where? He's not easy to find. He rarely lets himself be seen,” he asked.
+“But where? He's not easy to find. He rarely lets himself be seen,” Bauros asked.
 
-“In Antraka, await his arrival you must,” Gunuk replied, looking toward the great mountain rising before him, eager to begin the climb.
+“In Antraka, his arrival you must await,” Gunuk replied, looking toward the great mountain rising before him, eager to begin the climb.
 
 “I'll help you! You're exhausted, wounded… If you told me where you were going, couldn't I make the journey easier for you? My body is beginning to feel its age, but I still have the strength of my youth. I've always been loyal to Kettke! You have nothing to fear,” Bauros insisted, reluctant to raise the sails and depart.
 
-“To Antraka, your path must lead. Mine… perhaps no return will have.”
+“Your path toward Antraka must lead. Mine… perhaps no return.”
 
 “I'm sure you'll come back.”
 
@@ -37,7 +37,7 @@ The Island of Rocks was an inhospitable, barren, uninhabited place. It always ha
 
 Overwhelming anguish seized Gunuk. Only he could change the situation. Only he carried the flame of hope. Only he…
 
-After hours of walking, exhausted, he stopped beside a great boulder that cast a welcome patch of shade. He opened his tunic and looked at his precious cargo. It seemed to give off a heavenly light, like the first rays of dawn. So small, yet so great! Gunuk smiled as he thought of his family, of his son.
+After hours of walking, exhausted, he stopped beside a great boulder that cast a welcome patch of shade. He pulled back his tunic and looked at his precious cargo. It seemed to give off a heavenly light, like the light carried by the first rays of dawn. So small, yet so great! Gunuk smiled as he thought of his family, of his son.
 
 “He will complete the journey you must begin today,” Vendemur, the Narako, had told him before his departure.
 
@@ -47,7 +47,7 @@ The sun shone fiercely, its powerful rays seeming to sear his back. Sweat was al
 
 Glancing up at the brilliant sun, he noticed with concern how close the moon had drawn. There was no time to lose! Kudark would be eager to leave his lair, impatient to travel, even if only in spirit, to see the prize he had been awaiting. Gunuk smiled again.
 
-“A great disappointment, he will suffer,” he whispered to himself, though he soon realized that Kudark's fury would be even greater, and… that was not good at all. Gunuk quickened his pace. He was hungry, so exhausted he could barely lift his legs, and his wounds were making every movement increasingly painful. But what did any of that matter now?
+“A great disappointment, he will face,” he whispered to himself, though he soon realized that Kudark's fury would be even greater, and… that was not good at all. Gunuk quickened his pace. He was hungry, so exhausted he could barely lift his legs, and his wounds were making every movement increasingly painful. But what did any of that matter now?
 
 As though the moon were beginning to devour the sun, daylight started to surrender to the inevitable phenomenon. An unsettling twilight spread across every corner of the island, and Gunuk, summoning strength that seemed to consume him from within, finally spotted the grotto. There was no time to celebrate; every second mattered.
 
