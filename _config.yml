@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+
 exclude:
   - README.md
   - LICENSE
