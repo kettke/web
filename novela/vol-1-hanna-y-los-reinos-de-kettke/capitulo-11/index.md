@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Capítulo XI"
@@ -229,6 +228,13 @@ Sin embargo, Gunuruk miraba horrorizado el espectáculo. Hasta el momento no se 
 —¡Hanna, rápido subir! ¡Nosotros marchar!
 
 —Sí, Gunuruk —respondió mientras corría hacia el carro.
+
+Pero cuando se disponían a salir, uno de los Bábagos que había estado mirando la bolsa de las joyas se dirigió hacia ellos, y junto a otro par que lo siguieron todos se lanzaron sobre ella.
+
+El carro ya se encontraba en marcha y Gunuruk hacía todo lo posible por controlar al Lewik, que empezaba a tomar velocidad, e impedir que los ávidos seres se llevaran la bolsa. Hanna los golpeaba mientras esquivaba sus peligrosos dientes e intentaba sujetar la bolsa pero, tras unos momentos en los que el resto de sus compañeros casi consiguieron alcanzar también el carro, la bolsa sucumbió ante tanto tirón y se abrió de lado a lado, esparciendo su contenido por todas partes.
+
+Entonces los Bábagos perdieron su interés en ella y en Gunuruk, que por fin pudieron escapar de la trágica situación.
+
 
 ---
 
