@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mapa Narrativo — Volumen I"
+nav_exclude: true
+search_exclude: true
+---
 
 # Mapa narrativo global — Volumen I
 
