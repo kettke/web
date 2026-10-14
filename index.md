@@ -6,7 +6,7 @@ permalink: /
 description: "Bienvenido a Kettke, el Reino de los Reinos. Descubre la aventura de Hanna, lee el primer volumen de su trilogía y explora un universo fantástico de reinos, criaturas, pueblos, leyendas y lenguas propias a través de su Atlas oficial."
 ---
 
-# Kettke
+# Bienvenidos a Kettke
 
 ## El Reino de los Reinos
 
