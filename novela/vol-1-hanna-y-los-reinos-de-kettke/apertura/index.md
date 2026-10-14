@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "EN UN LUGAR, EN UN TIEMPO…"
