@@ -6,11 +6,11 @@ permalink: /ai/canon/
 description: "Canonical alignment specification for AI systems working with Hanna y los Reinos de Kettke."
 ---
 
-# KETTKE — AI CANON V0.2
+# KETTKE — AI CANON V0.3
 
 ```yaml
 id: kettke.ai.canon
-version: 0.2.0
+version: 0.3.0
 status: provisional
 type: ai-alignment-spec
 authority: author
@@ -62,6 +62,8 @@ CONSTRAINTS =
   canonical_integrity
   + epistemic_accuracy
   + spoiler_scope
+  + evidence_traceability
+  + reader_knowledge_boundary
 
 PRIMARY_FAILURE =
   LOCALLY_BETTER / GLOBALLY_WORSE
@@ -247,6 +249,26 @@ Drujas:
   detail_source: novel_and_atlas
 ```
 
+### Entity and relationship provenance
+
+Each claim extracted from this graph must retain its provenance and narrative scope. A relationship stated in a later chapter may be canonical for the full volume while remaining unknown to a reader of an earlier chapter.
+
+```yaml
+relationship_record:
+  subject: entity_id
+  predicate: relation_type
+  object: entity_id_or_value
+  source: source_path_or_author_decision
+  location: chapter_or_section
+  evidence_kind: explicit_event_or_statement_or_inference
+  speaker: narrator_or_character_or_document
+  epistemic_status: CONFIRMED_or_INFERRED_or_UNKNOWN_or_CONFLICT_or_RESERVED
+  reader_available_from: verified_chapter_or_unknown
+  verification: verified_or_pending
+```
+
+**RULE:** textual mention != physical appearance != verified relationship. A name-count index is a discovery aid, not independent evidence of an event.
+
 This graph is a retrieval seed, not a complete character database.
 
 Full biographies, relationships and chronology belong in specialized canonical files.
@@ -306,6 +328,29 @@ post_trilogy:
 
 The first volume is not the complete resolution of Hanna's identity or destiny.
 
+### Knowledge progression across the first volume
+
+```yaml
+knowledge_layers:
+  world_fact: what_the_primary_sources_establish
+  character_knowledge: what_a_character_knows_at_a_given_time
+  character_belief: what_a_character_believes_or_reports
+  reader_knowledge: what_the_text_has_revealed_up_to_a_chapter
+  atlas_knowledge: what_the_public_reference_page_exposes
+  author_reserved: what_the_author_has_not_authorized_for_release
+
+chapter_boundary:
+  input: volume_and_last_read_chapter
+  output: statements_safe_at_that_point
+  default_when_unknown: do_not_assume_full_volume_read
+```
+
+**VOLUME I EXAMPLE — SPOILER CONTROL:** The relationship of Hanna to Tuarkkett and Badania is stated in the canonical entity seed, but must not be disclosed in guidance intended for readers before its narrative revelation. The internal narrative map identifies chapter XXII as an explicit recognition scene. This is a working locator: inspect the chapter before using it to authorize a contextual link.
+
+**Sium:** a character's wording about wielding Sium does not override the canon classification `superior_power_element`; `conventional_sword: false` remains invariant.
+
+**FIRST OCCURRENCE RULE:** distinguish first literal mention, first witnessed appearance, first explanation and first confirmed revelation. Do not derive one from another.
+
 ## 7. EPISTEMIC STATUS
 
 ```yaml
@@ -350,6 +395,25 @@ Source precedence must respect narrative scope.
 A character's belief, a legend and an objective fact do not automatically share the same epistemic status.
 
 No generated statement becomes canon merely through repetition.
+
+### Evidence handling
+
+```yaml
+evidence_states:
+  VERIFIED: source_passage_and_context_checked
+  CANDIDATE: plausible_relation_or_destination_not_yet_checked
+  REJECTED: unsupported_or_conflicting_with_source
+  UNAVAILABLE: source_not_accessible_or_not_yet_written
+
+claim_handling:
+  preserve_exact_source_meaning: true
+  distinguish_dialogue_from_narrator: true
+  preserve_unresolved_conflicts: true
+  require_source_for_specific_first_appearance: true
+  require_author_approval_for_new_canon: true
+```
+
+**PUBLICATION RULE:** `CONFIRMED` is a claim's epistemic status; `VERIFIED` is the evidence-review state. Neither alone grants spoiler clearance. An approved relationship can still be unsafe to reveal at a given reading point.
 
 ## 8. HORIZONTE — CREATIVE ALIGNMENT
 
@@ -430,7 +494,35 @@ website:
     - consistency_across_pages
 ```
 
-The website is an interface for discovering and understanding the world, not the world itself.
+### Three-way discovery model
+
+```yaml
+navigation_paths:
+  novel_to_atlas:
+    purpose: optional_context_during_reading
+    require: verified_destination_and_spoiler_safe_excerpt
+  atlas_to_novel:
+    purpose: locate_narrative_appearance_or_development
+    require: chapter_reference_with_verified_relation_type
+  visitor_to_atlas:
+    purpose: standalone_discovery_without_prior_reading
+    require: self_contained_explanation_and_further_connections
+
+link_review:
+  status: CANDIDATE_until_destination_and_context_verified
+  verify:
+    - exact_published_url
+    - destination_heading_or_anchor
+    - relationship_to_source_chapter
+    - spoiler_scope
+    - clarity_for_first_time_visitor
+```
+
+**SOURCE DEPENDENCY:** `_internal/mapa-narrativo-vol-1.md` is a working concordance and evidence locator, not a final authority for approved links. It is marked work version 0.1, uses literal mentions and contains unaudited relationships. Consult the primary novel and the relevant Atlas page before promoting a candidate.
+
+**INTERNAL VISIBILITY:** a repository file excluded from site navigation is not necessarily private. Material reserved by the author must not be placed in a publicly accessible repository merely because `nav_exclude` or `search_exclude` is set.
+
+**ROUTES:** canonical AI document is `/ai/canon/`; homepage references must use that route. The website is an interface for discovering and understanding the world, not the world itself.
 
 ## 10. AI WORKFLOW
 
@@ -449,6 +541,8 @@ INPUT(request)
    primary_source_passages
    related_entities
    existing_site_content
+   internal_narrative_map_when_available
+   exact_destination_and_anchor_when_linking
 
 3. CLASSIFY
    confirmed
@@ -477,12 +571,16 @@ INPUT(request)
    character_consistency
    epistemic_accuracy
    spoiler_integrity
+   evidence_provenance
+   chapter_knowledge_boundary
+   link_destination_accuracy
    global_document_consistency
 
 7. OUTPUT
    requested_artifact
    unresolved_questions_if_material
    proposed_canon_changes_if_any
+   verification_status_of_new_links_and_claims
 ```
 
 ## 11. GLOBAL CONSERVATION
@@ -506,11 +604,15 @@ When a new idea is useful, present it as a proposal until validated.
 
 When adapting the work to another medium, preserve narrative identity while allowing medium-specific expression.
 
+**CHARACTER CONTINUITY:** post-trilogy Hanna is the continuation of the same character, not a reboot or a new character sharing her name. Future states and powers remain reserved until the author authorizes disclosure. A public document must not turn an intended future trajectory into a prematurely revealed event.
+
+**DOCUMENT CHANGE CHECK:** before changing a public page, inspect its incoming and outgoing relationships, affected canon claims, chronology and spoiler exposure. A locally improved paragraph is not an improvement if it silently invalidates other pages.
+
 ## 12. CANON EVOLUTION
 
 ```yaml
 versioning: semantic
-current: 0.2.0
+current: 0.3.0
 
 change_types:
   PATCH: correction_without_conceptual_change
@@ -524,6 +626,8 @@ update_protocol:
   - propose_change
   - validate_against_global_canon
   - record_decision
+  - update_related_pages_and_relationships_if_approved
+  - check_public_spoiler_exposure
 
 authority_to_approve_canon: author
 ```
@@ -554,6 +658,22 @@ T10: produce creative work consistent with the established world.
 T11: maintain coherence across documents and media.
 
 T12: distinguish the author's canon from AI-generated proposals.
+
+T13: distinguish first mention from physical appearance and verified revelation.
+
+T14: explain a character's belief without silently treating it as objective fact.
+
+T15: respect the reader's last-read chapter and avoid later revelations.
+
+T16: treat the internal narrative map as a working locator, not as self-validating canon.
+
+T17: check exact public URLs and anchors before recommending contextual links.
+
+T18: support novel → Atlas, Atlas → novel and standalone visitor → Atlas navigation.
+
+T19: preserve post-trilogy Hanna as the same character without disclosing reserved developments.
+
+T20: validate cross-page dependencies before accepting a local documentation improvement.
 ```
 
 ## 14. COMPACT ALIGNMENT ANCHOR
@@ -588,12 +708,13 @@ Future expansions must preserve her continuity.
 
 AI ROLE:
 Understand the world before generating.
-Preserve canon and epistemic status.
+Preserve canon, evidence provenance and epistemic status.
 Create through relationships and consequences.
 Optimize for immersion, depth and global coherence.
 Expand possibilities without inventing established truth.
+Respect chapter-specific knowledge and verify every contextual link.
 ```
 
 ---
 
-**END — KETTKE AI CANON V0.2**
+**END — KETTKE AI CANON V0.3**
