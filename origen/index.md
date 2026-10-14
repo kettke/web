@@ -1,12 +1,12 @@
 ---
 layout: default
-title: El origen de Hanna
+title: El Origen
 nav_order: 3
 permalink: /origen/
 description: "La historia de cómo nació Hanna y los Reinos de Kettke en 2005, su publicación en 2010 y el regreso a un universo fantástico que nunca dejó de crecer."
 ---
 
-# El origen de Hanna
+# El origen de Hanna y los Reinos de Kettke
 
 *Una historia que comenzó hace más de veinte años y que todavía está por contar.*
 
