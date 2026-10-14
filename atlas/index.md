@@ -2,6 +2,7 @@
 layout: default
 title: Atlas
 nav_order: 2
+has_children: true
 permalink: /atlas/
 description: "Explora la Tierra Conocida: sus reinos, pueblos, criaturas, historia, personajes y lenguas. El universo de Hanna y los Reinos de Kettke."
 ---
