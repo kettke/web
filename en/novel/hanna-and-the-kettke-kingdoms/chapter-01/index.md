@@ -15,7 +15,7 @@ As she did every day, Hanna woke at seven thirty in the morning to the unpleasan
 
 Like everyone else, she had to hurry. The school had strict rules, and she knew that arriving late meant beginning another grueling day on an empty stomach.
 
-Little by little, the crowded dormitory emptied. Hanna and her roommates filed out amid a great deal of chatter, leaving behind the enormous room, now occupied only by symmetrical rows of small, meticulously made beds.
+Little by little, the crowded dormitory emptied. Hanna and her roommates filed out amid a great deal of chatter, leaving behind the enormous room, now occupied only by a symmetrical row of small, meticulously made beds.
 
 St. James was an old but monumental school, as its thick, imposing walls made clear. Enormous, cold limestone-like stones formed the walls of the corridors in the residential wings. The ceilings rose to magnificent heights, with numerous glass-filled domes through which, on sunny days, a welcome brightness poured down upon everyone passing beneath them.
 
@@ -33,7 +33,7 @@ Indeed, the long-awaited occasion brought no change to the school's dreary routi
 
 Hanna was a rather unusual student, for her grades varied enormously from subject to subject. In literature and languages, she was among the most accomplished students in her class. The same was true of physical education, where she displayed an unmistakable natural talent. Natural science was another of her favorite subjects. Her excellent marks, however, took a spectacular plunge when it came to geography, history, and mathematics, the last of which was a daily nightmare for both Hanna and her teachers.
 
-As for her behavior, she was well liked by the faculty. They all knew Hanna was a rather special girl, but her strong personality sometimes clashed with the school's discipline. Rules that were supposed to be obeyed without the slightest argument occasionally met with questions from her, and her persistent, though principled, stubbornness had landed her in trouble more than once.
+As for her behavior, she was well liked by the faculty. They all knew Hanna was a rather special girl, but her strong personality sometimes clashed with the school's discipline. Rules that were supposed to be obeyed without the slightest argument occasionally met with questions from her, and her persistent, if not entirely unreasonable, stubbornness had landed her in trouble more than once.
 
 Clearly, birthday or not, this was not going to be an easy day, and her morning encounter with numbers and formulas proved it.
 
@@ -57,7 +57,7 @@ Perhaps annoyed that they were not the center of attention that day, they made t
 
 When he saw that few people had paid any attention to his insult, he marched onto the field in irritation. With a swaggering, bullying air, he abruptly stopped the ball with his foot. Joseph, so absorbed in the game that he had not even noticed what was happening, went sprawling into the mud.
 
-"Pick up your nerd glasses and get off my field!" Frank shouted, glaring at him defiantly.
+"Pick up your nerd glasses and get out of my schoolyard!" Frank shouted, glaring at him defiantly.
 
 Joseph and the other boys stared at him in surprise. As far as they were concerned, they had not been bothering anyone, but the alarm in their eyes soon betrayed the fear the situation was beginning to cause them.
 
@@ -157,7 +157,7 @@ Hanna, who had shown little interest at first, began paying closer attention. Al
 
 "It's a shame it died only hours later."
 
-"Yes, a terrible shame. The numerous tests we've conducted indicate that its cognitive development was somewhat below that of humans. Yet despite its animal-like, almost human morphology, there's nothing comparable to it among the living creatures of our planet. We're still searching for answers, but so far without success."
+"Yes, a terrible shame. According to the numerous tests we've conducted, its cognitive development was somewhat below that of humans. Yet despite its animal-like, almost human morphology, there's nothing comparable to it among the living creatures of our planet. We're still searching for answers, but so far without success."
 
 "Some people already have an answer for you," the teacher added with a smile, pointing toward a group of people outside holding large signs.
 
@@ -175,7 +175,7 @@ Before long, the group began to grow impatient, for the conversation had continu
 
 After waiting their turn in the long line of curious visitors, the students passed one by one in front of a protective glass barrier. The central area of the hall was dimly lit, and a bright spotlight shone from the bottom of the tank, illuminating its interior. Inside, the creature floated suspended in a somewhat viscous substance. Curled into a fetal position, its head seemed to gaze at each person passing before it. The sight was rather sinister, for the creature bore a certain resemblance to a human being. Hanna, who was the first to pass, seemed to freeze at the sight of it. An icy shiver ran through her body as she stood before the peculiar animal.
 
-It was plump and potbellied, though powerfully built, and appeared quite short. Its body was covered in a thick layer of whitish fur, now badly deteriorated, probably because of the length of time it had spent inside the tank. Numerous sores covered its body, and a large scar along its side appeared to be an old one. But what struck Hanna most was its face. Its expression revealed anguish, terrible anguish. The sight affected her so deeply that she seemed turned to stone. Joseph had to give her a little shove to make her move along, and he, too, must have felt a shiver of fear, for the force of his push sent him stumbling against the glass. When he found himself face-to-face with the creature, which seemed to be staring directly at him, he let out a bloodcurdling scream. The effect on the group was unmistakable, and many of the remaining students hurried past the tank, barely daring to look inside.
+It was plump and potbellied, though powerfully built, and appeared quite short. Its body was covered in a thick layer of whitish fur, much of it now in poor condition. Numerous sores covered its body, and a large scar along its side appeared to be an old one. But what struck Hanna most was its face. Its expression revealed anguish, terrible anguish. The sight affected her so deeply that she seemed turned to stone. Joseph had to give her a little shove to make her move along, and he, too, must have felt a shiver of fear, for the force of his push sent him stumbling against the glass. When he found himself face-to-face with the creature, which seemed to be staring directly at him, he let out a bloodcurdling scream. The effect on the group was unmistakable, and many of the remaining students hurried past the tank, barely daring to look inside.
 
 Miss Hings, the last to walk through the narrow passage, also realized that perhaps the exhibit was not entirely suitable for children so young. When she mentioned this to Dr. Hern, he explained that although the creature was normally kept in the museum's storage area, protected from anything that might damage it, and was displayed to the public only on rare occasions, its condition had deteriorated considerably in recent times. Its present appearance was very different from what it had originally been.
 
