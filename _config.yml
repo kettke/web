@@ -29,9 +29,11 @@ footer_content: >-
   Universo literario original.
   <a href="/licencia/">Licencia y derechos de uso</a>.
 
+
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - README.md
