@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: Multiverso
-nav_order: 5
+nav_order: 4
 permalink: /multiverso/
 description: "El Multiverso de Hanna: pasado, presente y futuro de un personaje cuya historia comenzó hace más de veinte años. Un camino recorrido y un horizonte por descubrir."
 ---
