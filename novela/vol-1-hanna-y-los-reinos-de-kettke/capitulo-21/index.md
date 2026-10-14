@@ -117,4 +117,26 @@ Hanna se despertó con el ruido de la pesada puerta de la habitación. Todavía 
 
 —¿¡Estar bien!? —se escuchó a través de la puerta.
 
-—Sí —contestó Hanna nerviosa m
+—Sí —contestó Hanna nerviosa mientras encerraba a Kron en la terraza—. ¡Pasa, Gunuruk! —añadió después al reconocer la voz de su amigo. El Snork, al entrar, se sorprendió al ver a Hanna. Estaba preciosa, bella como nunca, con su esplendoroso pelo y sus nuevas vestimentas que parecían hechas a medida.
+
+—¿Qué pasar? —dijo después, no menos sorprendido al ver que todo estaba algo húmedo, como si una pequeña tormenta se hubiera colado en la habitación.
+
+—Kron también ha querido asearse —contestó Hanna, y después los dos se rieron  mientras  miraban  cómo  el  simpático  perro  ladraba  y  golpeaba  la  ventana intentando entrar.
+
+—¿Viste a Vendemur alguna vez? —preguntó Hanna intrigada.
+
+—No  ver,  aunque  pronto  conocer  —contestó  el  Snork  mientras  abría  los ventanales. Kron se lo agradeció a lametones ante la sonrisa de su amiga.
+
+—Parar. ¡Parar! —exclamó Gunuruk ante el cariñoso gesto, aunque el excitado animal se resistiera a obedecerlo. Después salieron a la terraza aunque no hablaron mucho. Gunuruk parecía feliz mientras contemplaba el paisaje, respirando profundamente, satisfecho; pero Hanna aún no había alcanzado esa paz. Incluso ahora dudaba si debía contarle a su amigo el triste final de su padre. Él parecía haber aceptado su muerte, aunque sería un trago amargo. Algo en su interior le dijo que debía esperar. De repente una gran sombra sobrevoló el lugar, tan grande que por un momento nubló el sol y no pudieron evitar asustarse.
+
+—¡Es  un  Tuark!  —exclamó  preocupado  Gunuruk—.  ¿Blanco?  —añadió sorprendido. A Hanna empezó a palpitarle el corazón, más  aún cuando aquella criatura descendió un poco y dio la vuelta para dirigirse directamente hacia ellos.
+
+—¿¡Qué hacemos!? —exclamó aterrada, inmóvil, aunque Gunuruk mostraba una gran sonrisa.
+
+—Vendemur —susurró él, viendo cómo el Tuark se encontraba ya frente a ellos, sin parar de soltar alaridos a la vez que descendía. En efecto, era Vendemur el que montaba aquella extraordinaria criatura. Sólo había un Tuark blanco en aquel mundo, sólo uno había existido, y sólo uno al Nárako había pertenecido. El Tuark por fin tomó tierra, junto al puente, en una explanada libre de vegetación que se encontraba antes de atravesarlo y, sin dilación, el que había sido su guía se bajó. Iba totalmente  cubierto y llevaba  una especie  de bastón. Con paso diligente, mientras era observado por Hanna y Gunuruk, atravesó el puente y avanzó hacia Kalamnia hasta que ya no pudieron verlo.
+
+—¡Gunuruk! Deber marchar —exclamó Ynack nerviosa a la vez que aparecía por la puerta—. ¡Rápido! Tú aquí esperar, Hanna, esperar. Mientras el Snork se marchaba un poco decepcionado y cerraba la puerta, su compañera se puso muy nerviosa. La aparición de Vendemur era inminente, y a pesar de no conocerlo todavía, su espectacular llegada le decía que aquél era sin duda un ser excepcional. Ella ya conocía algo de él, lo suficiente para atribuirle poderes fuera de cualquier razonamiento; pero lo que más le preocupaba era cómo aceptaría su situación, su incertidumbre, su irrefrenable deseo de no querer ser la protagonista de aquella historia. Tras un par de minutos, unos pasos empezaron a escucharse con contundencia retumbando por el pasillo, y Hanna se puso más nerviosa aún, al borde de un infarto. De pronto una sombra se paró frente a su habitación, y tras unos segundos eternos, la puerta se abrió y el Nárako se dejó ver. Hanna estaba petrificada. No sabía muy bien qué esperaba encontrar, pero sin duda cuando por fin lo tuvo delante se tranquilizó. Estaba cubierto con un gran sayo, y en cuanto la tuvo enfrente, descubrió su rostro. Parecía humano, un anciano de larga melena  y  barba,  de  expresión  tranquila,  serena,  y  mirada  familiar.  Tenía  una envergadura tremenda, y aunque no se pudiera observar a simple vista, un aura de energía lo envolvía. Ella lo notó rápido, y esa fuerza, ciertamente positiva, hizo que se calmara. Kron fue hasta él como guiado por una irrefrenable atracción, y tras sentarse a su lado con mirada hipnótica, el Nárako acarició su cabeza. Eran todos detalles que a Hanna la sumieron en un ambiente de paz, de confianza, y no hizo falta que hablaran mucho para darse cuenta del motivo de su encuentro. Vendemur venía buscando algo… algo que todavía no había aflorado en ella.
+
+---
+
+[← Capítulo XX](/novela/vol-1-hanna-y-los-reinos-de-kettke/capitulo-20/) · [Índice del volumen I](/novela/vol-1-hanna-y-los-reinos-de-kettke/) · [Capítulo XXII →](/novela/vol-1-hanna-y-los-reinos-de-kettke/capitulo-22/)
