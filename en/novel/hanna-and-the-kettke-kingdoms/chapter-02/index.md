@@ -11,101 +11,265 @@ description: "Read Chapter II of Hanna and the Kettke Kingdoms, Volume I of the 
 
 # CHAPTER II
 
-At last, the bus arrived back at school. Since the field trip had taken up the afternoon's class time, Hanna went to her room to change before heading out to enjoy her well-earned hours of freedom.
+At last, the bus arrived back at school. Since the excursion had taken up the afternoon's class time, Hanna went to her room to change before enjoying her well-earned hours of freedom.
 
-Joseph accompanied her part of the way, as he was going to the library. Before saying goodbye, he asked his friend to stop by and see him before she left.
+Joseph accompanied her part of the way, as he was heading to the library. Before they parted, he asked her to stop by and see him before she left.
 
-"Don't forget to come see me! There's something I have to show you," he called as he continued on his way.
+“Don't forget to come find me! I have something to show you,” he called as he continued on his way.
 
-Once in her room, Hanna opened her wardrobe. After changing out of her uniform and into her everyday clothes, she went to her bedside table and picked up her little blanket. Unfolding it, she searched for her damaged chain, but to her surprise, it was nowhere to be found. Hanna thought for a few seconds, confused. Truthfully, although that was where she usually kept it, so much had happened that day that she could not remember whether she had actually left it there.
+Once in her room, Hanna opened her wardrobe and exchanged her uniform for her everyday clothes. Then she went to her bedside table and picked up her little blanket. Unfolding it, she searched for her damaged chain, but to her surprise, it was nowhere to be found. She stood thinking for a few seconds, confused. Although that was where she usually kept it, so much had happened that she could no longer remember whether she had actually left it there.
 
-"Hanna! You really need to be more organized," she told herself. Glancing at the large clock on the wall, she wasted no more time. Remembering what Joseph had said, she headed for the library to find out what he wanted.
+*Hanna, you really need to be more organized,* she told herself.
 
-When she arrived, she found the doors closed. The tools left behind by the workers who had been there that morning prompted her to knock before entering.
+Glancing at the large clock on the wall, she wasted no more time and headed for the library to find out what Joseph wanted.
 
-With a firm hand, she struck the enormous main doors three times, and the sound quickly echoed throughout the great hall.
+When she arrived, the doors were closed. The tools left behind by the workers who had been there that morning prompted her to knock before entering.
 
-Although Joseph was at the far end of the room, arranging some books, he responded immediately.
+She struck the enormous main doors three times with a firm hand, and the sound quickly echoed through the great hall.
 
-"Come in!" he shouted firmly. But when he saw that it was his friend, his tone became much warmer. "Come on in, Hanna. I've been waiting for you. Look what I've got for you."
+Joseph, who was arranging books at the far end of the room, reacted immediately.
 
-He picked something up from a table, approached her, and handed her a small package tied with string. Hanna grew terribly excited. After several attempts to open it without damaging the paper, she finally gave up and tore away the wrapping, revealing her gleaming chain. It shone so brightly that it looked brand-new. The repair was perfect; she could not remember it ever having looked so beautiful. Delighted, Hanna planted a big kiss on her friend's cheek, and Joseph, flustered, could not help turning bright red.
+“Come in!” he called firmly. But when he saw that it was Hanna, his voice softened. “Come on in, Hanna. I've been waiting for you. Look what I've got for you.”
 
-"What do you think? It's not much of a present, but I thought it would make you happy. Forgive me for going into your room. You were asleep, and I didn't want to wake you. Besides, if I had, it wouldn't have been a surprise," he said, handing her a lovely bouquet of flowers as well, which he had originally intended to be her present.
+He picked something up from a nearby table, approached her, and handed her a small package tied with string. Hanna grew terribly excited. After several attempts to undo it without damaging the paper, she finally tore open the wrapping to reveal her gleaming chain.
+
+It shone so brightly that it looked brand-new. The repair was perfect. In fact, she could not remember ever seeing it look so beautiful.
+
+Overjoyed, Hanna planted a big kiss on her friend's cheek. Joseph, flustered, turned a brilliant shade of red.
+
+“What do you think? It's not much of a present, but I thought you'd like it. Forgive me for going into your room. You were asleep, and I didn't want to wake you. Besides, if I had, it wouldn't have been a surprise,” he explained, handing her a lovely bouquet of flowers as well—the gift he had originally intended to give her.
 
 Hanna looked at Joseph, her eyes shining with emotion.
 
-"Thank you so much. As usual, I'd given up hope of getting anything," she said, pleasantly surprised. After taking another look at her chain, she slipped it into her pocket.
+“Thank you so much. As usual, I'd given up hope of getting anything,” she said, pleasantly surprised.
 
-"It's nothing," he replied, before breaking into a smile that betrayed an unusual lack of modesty. "Being in charge of the library has its advantages. You wouldn't believe how much you can learn from books. Even how to make broken chains look as good as new!"
+After admiring her chain once more, she slipped it into her pocket.
 
-"This means so much to me, and... the flowers are beautiful!" Hanna exclaimed.
+“It's nothing,” Joseph replied, allowing himself a smile of uncharacteristic pride. “Being in charge of the library has its advantages. You wouldn't believe what you can learn from books—even how to make broken chains look new again!”
 
-"Don't waste any more time in here! Go enjoy yourself. It's a wonderful day," Joseph added, encouraging her to hurry out of the school.
+“This means so much to me. And… the flowers are beautiful!” Hanna exclaimed.
 
-Hanna gave him another little kiss, bringing the color rushing back to his cheeks. Then, after a hurried goodbye, she left the school, though not before placing the beautiful flowers on her bed.
+“Don't waste another minute in here! Go enjoy yourself. It's a wonderful day,” Joseph added, urging her to hurry outside.
 
-Normally, the boys and girls went into town in groups, which was how the school administration preferred it. Hanna, however, enjoyed being alone, and since her guardians were well aware of this habit, they had no objection to her wandering about without company, provided she respected the rules and curfew.
+Hanna gave him another little kiss, bringing the blush straight back to his cheeks. Then she said goodbye and hurried out of the school, though not before leaving the lovely flowers on her bed.
 
-She needed to hurry. The return journey had taken longer than expected because of traffic, and her visit to the library had delayed her more than she intended. Her destination awaited. The school stood at one end of the city and occupied an enormous stretch of land. A broad neighborhood of small row houses surrounded it. After ten minutes of brisk walking, Hanna reached the town's main avenue. The old town was not very large and bordered a great mountain range to the north. From those mountains flowed a powerful river that ran through the center of the city all year long. Most of the population was concentrated in the southern district, where larger buildings housed the many workers employed by the industrial settlements along the river's left bank. The right bank, meanwhile, was a popular and well-equipped recreational area. Hanna, however, knew exactly where she was going, and twenty minutes after leaving the school, she entered a small butcher shop on one of the busiest streets in town, near City Hall Square. The shop was crowded. Despite her age, Hanna was a tall, slender girl, and the moment she stepped through the door, her head stood out above those of the customers waiting their turn. When Mr. Perkins, the friendly shopkeeper, spotted her, he gave her a smile, which she returned.
+Ordinarily, the boys and girls went into town in groups, as the school administration preferred. Hanna, however, enjoyed being alone. Her guardians knew this habit well and had no objection to her wandering around unaccompanied, provided she obeyed the rules and returned on time.
 
-"I was beginning to think you weren't coming. Your order's behind that shelf!" he said in his peculiar, gravelly voice. Then he winked at her and went back to cutting up a large piece of meat he held in his hands.
+She needed to hurry. Traffic had delayed the return journey, and her visit to the library had taken longer than expected. Her destination awaited.
 
-Hanna said nothing. She quietly went to the spot he had indicated, collected a small package, and said goodbye with a knowing gesture.
+The school stood at one edge of town and occupied an enormous stretch of land. Around it lay a broad neighborhood of small, attached houses. After ten minutes of brisk walking, Hanna reached the town's main avenue.
 
-Leaving the butcher shop, she changed direction and headed north, quickening her pace once more. The sky had cleared, and the clouds had given way to a brilliant sun. Hanna decided to put her shining chain back around her long neck. Her good spirits seemed to have returned, and as she took a deep breath, a pleasant feeling washed over her. A little later, she was almost at her destination. She looked carefully toward some abandoned houses beside North Park, a spacious park stretching across the hills. After walking a few more yards to one of the houses and making sure no one was nearby, she finally stopped. A high stone wall rose before her, but despite its seemingly impenetrable appearance, she used her agility to slip through a small opening almost completely hidden behind some bushes. Once inside, she began opening the package. It contained various scraps and animal parts. She had barely set it on the ground when a radiant-looking dog appeared through the half-open front door, wagging his tail furiously as he raced toward her. Delighted, Hanna hurried to pet him. The handsome animal leaped at her without hesitation and welcomed her in his own special way with his enormous tongue.
+The old quarter was not particularly large. To the north, it bordered a vast mountain range, from which a powerful river flowed year-round through the center of town. Most of the population lived in the southern district, where larger buildings housed much of the workforce employed in the industrial settlements along the river's left bank. The right bank, by contrast, was a popular and well-equipped recreational area.
 
-"That's enough, Kron! Look what I've brought you," she said with a broad smile, pointing to the open package on the ground.
+Hanna knew exactly where she was going. Twenty minutes after leaving school, she entered a small butcher shop on one of the busiest streets in town, near City Hall Square.
 
-A second later, Kron was already enjoying his delicious afternoon snack. The dog's appetite was voracious, and it did not take him long to devour everything his friend had brought. Kron was an enormous, muscular puppy, yet despite his size, he could not have been more than eight months old. He had been very small when Hanna found him, and she had never known his exact age.
+The shop was crowded. Despite her age, Hanna had a slender figure, and the moment she stepped through the door, her head rose above those of the customers waiting to be served.
 
-His coat was white, with a large brown patch on his back and another patch over his left eye that gave him an unmistakable appearance. Hanna loved this lively animal dearly, and every afternoon she slipped away to the house to bring him food and play with him. It was certainly a crazy secret to keep, one that not even Joseph knew about. But ever since she had found Kron abandoned, she had been unable to do otherwise. Perhaps it was because she adored animals. Or perhaps it was because she saw something of herself in him. Whatever the reason, she had not missed a single day, and it had never felt like an effort. In fact, those visits were perhaps the happiest moments she could remember. Her own circumstances tormented her: the absence of love, the lack of a family. Something deep inside seemed to tell her that she had to fight for what she wanted, that she was more than just a poor abandoned girl, that there were still so many things waiting for her to do. And Kron undoubtedly helped her look toward the future with optimism. For Kron, life was all joy, love, and strength. There was no room for sorrow or pity, and Hanna hated being pitied. She had never sought it or wanted it, although every day so many people offered her their sympathy as though it were some wonderful gift.
+Mr. Perkins, the friendly shopkeeper, spotted her and smiled. Hanna returned the smile.
 
-After several minutes of petting and enthusiastic licking, the two went inside the house. The front door stood half-open, and Hanna propped a chair against it to serve as a bolt. A few seconds later, however, the weight of the door sent the chair crashing to the floor with a tremendous bang.
+“I was beginning to think you weren't coming. Your order's behind that shelf!” he said in his distinctive, gravelly voice.
 
-The entrance hall was long and dark, opening into a large living room connected to numerous rooms that seemed to branch off in every direction. At the far end stood two grand staircases, twisting upward toward the second floor. Despite their attractive design, which almost invited anyone to climb them, Hanna preferred not to venture upstairs because of the building's unsafe condition. To keep Kron from doing so, she had placed two large, worn-out sofas across the way as a barrier, although they were hardly an obstacle for the athletic puppy.
+He gave her a wink, then resumed cutting up the large piece of meat he held in his hands.
 
-After a short play session indoors, the sound of several fireworks caught the friendly animal's attention. Wagging his swinging tail, he raced across the enormous living room. Once outside on the partially collapsed porch, he began barking. Hanna remembered the events organized to celebrate the anniversary of the controversial discovery, and an overwhelming desire to go there suddenly seized her, accompanied by a strange sensation she could not explain.
+Hanna said nothing. She went quietly to the place he had indicated, collected a small package, and said goodbye with a knowing gesture.
 
-Of course, leaving that enormous abandoned property with Kron was not something she normally did. Although the area was not particularly busy, the possibility of being spotted by one of her classmates—or worse, by any of the school's numerous teachers or employees—was enough to discourage her from walking through the streets with her friend. Fortunately, that had never been a problem, since the house stood on an immense property where the two enjoyed almost complete privacy.
+Leaving the butcher shop, she changed direction and headed north, quickening her pace again. The clouds had cleared, giving way to brilliant sunshine.
 
-An enormous garden surrounded the estate. Countless fountains, sculptures, and other equally extravagant decorations testified to the grander days the property had once known. Abandonment, however, had taken its toll, and those once-impressive ornaments now presented a rather shabby sight. Weeds grew unchecked, most of the sculptures lay buried beneath thick layers of ivy, and the lifeless fountains, filled with stagnant water—in some cases almost putrid—provided an ideal habitat for the many small animals that shared the property with Kron. Despite all this, the two friends delighted in what might have seemed a desolate landscape to anyone else. From the moment Hanna discovered the place, she had been certain she would never find a better shelter for Kron.
+Hanna decided to put her gleaming chain back around her long neck. Her good spirits seemed fully restored, and as she drew a deep breath, a wonderful feeling washed over her.
 
-That day, however, an unusual silence seemed to fill the enormous mansion. The pigeons, magpies, and other birds that normally populated the garden's trees were nowhere to be seen. When they did appear, they flew in groups, strangely silent, moving back and forth in a most peculiar fashion. Nor were there any signs of the little squirrels that could often be seen on sunny days taking a quick dip in the upper basins of the fountains, much to Kron's delight, since he loved chasing them. In fact, Kron himself was behaving rather differently. He wandered from place to place, and although he enjoyed every moment spent with Hanna, that afternoon he seemed oddly distracted.
+Before long, she was almost at her destination.
 
-Suddenly, another loud explosion shattered the silence, and its closeness made the young girl's heart pound. Her friend remained unperturbed, watching expectantly as an object fell from the sky. After standing motionless for a few seconds, he raced toward it and picked it up in his powerful jaws.
+She looked carefully toward a cluster of abandoned houses beside North Park, a spacious park stretching across the surrounding hills. After walking a little farther and reaching one of the houses, she checked to make sure nobody was nearby, then stopped.
 
-"Come here, little guy! What have you got there?" Hanna asked curiously. After examining the thin wooden stick he was carrying, she could only assume it was a fragment of the firework that had just been launched.
+A high stone wall rose before her. Despite its seemingly inaccessible appearance, she used her agility to slip through a narrow opening almost hidden behind some bushes.
 
-They went back inside the house, and after a moment of hesitation, during which that strange feeling stubbornly refused to leave her, Hanna decided to go out and investigate the area. Crossing the large garden, she reached the back of the property, where an imposing, carefully crafted metal fence stood. Fallen leaves and plants had turned it into an opaque wall. By pushing her long arms through the foliage, however, she managed to see the park, separated from the edge of the estate by nothing more than a broad cobblestone path.
+Once inside, she began opening the package. It contained assorted scraps and animal parts.
 
-People rarely came through that area, and after spending another minute carefully observing her surroundings, she decided to try leaving the property. Ignoring her usually reliable common sense, she was about to call Kron when she noticed him sitting quietly beside her, alert and curious. Hanna looked at him in surprise, for she had been so absorbed in studying the area beyond the fence that she had not realized he was there. With the same cleverness and speed she had shown when entering the property earlier, she made her way toward a small gate, and the two slipped out without hesitation.
+She had barely set it on the ground when a magnificent dog appeared through the half-open front door, wagging his tail vigorously as he raced toward her.
 
-At first, she intended to follow the path until she could see what was happening nearby. But after walking only a few yards, before anything came into view, she realized that the commotion seemed to be coming from every direction. She hesitated, almost abandoning the idea, then decided to cross the cobblestone road. With a quick dash, the two slipped unnoticed into the woods, which grew denser with every step.
+Delighted, Hanna hurried to pet him. The handsome animal bounded straight into her arms and greeted her in his own unmistakable way—with his enormous tongue.
 
-It was certainly neither the shortest nor the easiest route. Nevertheless, although Hanna did not know the area particularly well, she understood that taking this path made it almost impossible for them to encounter anyone. They hurried uphill, for time was running short. The terrain at that point was nearly impassable. The undergrowth beneath the towering trees made their progress increasingly difficult. Even so, they pressed on, and before they knew it, they had climbed high enough to glimpse, though with some difficulty, the enormous gathering taking place below at North Park's main entrance, where a vast crowd had assembled that afternoon.
+“That's enough, Kron! Look what I've brought you,” she said with a broad smile, pointing to the open package on the ground.
 
-Hanna carefully studied the scene. Many people carried signs, and for some time, music from the town band's pavilion had been filling the valley. The appearance of many of those present was strange. Some seemed to be wearing costumes, while others sat in groups, forming circles and holding hands. Cars and small vans crowded the lovely picnic area, trampling the lawns without a second thought, their wheels crushing the tiny flowers that on other days would have filled the park with color.
+A second later, Kron was happily devouring his tasty afternoon meal. His appetite was enormous, and it took him very little time to swallow everything his friend had brought.
 
-This time, moving more cautiously, the two climbed a little higher with the help of a small rocky outcrop. Finding shelter among the stones, they finally stopped and prepared to watch the spectacle, which to our exhausted young friend seemed utterly bewildering. After calming down and catching her breath, Hanna appeared to regain her senses for a moment. A pang of remorse crossed her mind as her conscience caught up with her. Clearly, this unusual rush of events could only bring her trouble. Yet something inside her seemed to twist her stomach into knots, and watching the strange spectacle below somehow eased that uncomfortable sensation. Kron was growing more restless by the minute, digging here and there as though searching endlessly for something among the rocks surrounding them. Worried, Hanna tried to calm him while wondering anxiously what time it was, for she had completely lost track.
+Kron was a huge, muscular puppy, though despite his size, he could not have been more than eight months old. He had been very small when Hanna found him, and she had never known his exact age.
 
-As the minutes passed, more and more people gathered below. Numerous news crews had arrived, and Hanna had the impression that all the commotion she had witnessed at the museum had gradually moved to the park.
+His coat was white, with a large brown patch on his back and another surrounding his left eye, giving him an unmistakable appearance.
 
-Suddenly, a large screen was uncovered as someone pulled away a canvas sheet, and lights appeared across its surface, seemingly displaying a message. Before Hanna could make out what it said, the letters changed into enormous numbers, and a countdown began. The crowd's constant glances toward the sky led her to conclude that the display was showing how much time remained before the eclipse. And although Hanna needed to hurry if she wanted to return to St. James on time, she once again gave in to an uncharacteristic burst of irresponsibility and decided to stay.
+Hanna loved the lively animal dearly. Every afternoon, she secretly made her way to the abandoned house to bring him food and play with him. It was a reckless secret she kept from everyone—even Joseph.
 
-Little by little, time passed. The murmurs of the assembled crowd reached her hiding place, and the lively music gave the occasion a distinctly festive atmosphere. Yet neither the voices nor the music could break the silence that, though seemingly in the background, had come to dominate her thoughts. Her heart beat faster and faster, and Kron's obvious nervousness—he was now running back and forth, barking incessantly—did nothing to soothe the troubled girl's feelings. Every passing minute seemed to make the next one last longer, and as the countdown approached its end, time itself appeared to stretch further and further.
+Yet from the moment she had found Kron abandoned, she had been unable to do otherwise.
 
-At last, that seemingly endless moment began drawing to a close. The effects of the strange natural phenomenon became visible, and within minutes, the brightness of the clear afternoon gave way to twilight. The gathering darkness created such an eerie atmosphere that Hanna seemed to slip into a state of restless drowsiness. Even the air appeared to grow thicker, while the shouting and music gradually faded, almost imperceptibly, until silence finally became the true center of the event.
+Perhaps it was simply because she loved animals. Or perhaps she recognized something of herself in him. Whatever the reason, she had not missed a single visit.
 
-Suddenly, the eclipse reached its maximum phase. Although Hanna knew the dangers of looking directly at the sun, she ignored them and stared straight at it. The sun was completely hidden, yet the force of its rays outlined the moon's fiery rim. Those rays were enough to blind Hanna for a moment, and she quickly turned her eyes away.
+And it was no burden. Quite the opposite. Those afternoons with Kron might well have been the happiest moments she could remember.
 
-At that instant, the countdown reached zero, and a succession of explosions erupted with such violence that Kron, seized by a fear Hanna had never seen in him before, fled wildly toward the sheer, inaccessible rock face rising directly behind them. Seeing her dog's reaction, Hanna ran after him, almost blind. He seemed to be carrying something in his jaws, but she could not make out what it was.
+Her own situation tormented her: the absence of love, the lack of a family. But something deep inside told her that she had to fight for what she wanted, that she was more than a poor abandoned girl, and that many things still lay ahead of her.
 
-Although she called to him at the top of her lungs, the endless fireworks display made it impossible for anything to be heard. Anguish seized her, and despite her impaired vision, she ran toward Kron, who now stood directly in front of two enormous rocks jutting from the outcrop.
+Kron helped her look toward the future with optimism.
 
-Still running, Hanna breathed a sigh of relief when she saw that her dog had stopped. The explosions had ceased, bringing a measure of calm to them both. But just before she could reach him, the two great stones in front of them split apart with another thunderous crash. Stunned, and before either could react, an immensely powerful beam of light burst from the small grotto, trapping them as though it were a black hole.
+To that dog, life was all joy, love, and strength. There was no room for sorrow or pity. And Hanna hated other people's pity. She had never sought it or wanted it, though every day there were those who offered it as though it were some precious gift.
 
-Powerless against what was happening, they vanished, merging with the light, which disappeared as violently as it had arrived.
+After several minutes of petting and enthusiastic licking, the two went inside the house.
+
+The front door stood half-open. Hanna wedged a chair against it to hold it shut, but a few seconds later, the door's weight sent the chair crashing to the floor with a thunderous noise.
+
+The entrance hall was long and dark, opening into a large living room connected to numerous other rooms that seemed to branch off in every direction. At the far end stood two grand staircases, twisting upward toward the second floor.
+
+Despite their inviting design, Hanna had no intention of going upstairs. The house was in such poor condition that it was hardly safe. To keep Kron from venturing up, she had placed two large, worn-out sofas across the way as a barrier, although they were no real obstacle to the athletic puppy.
+
+After a short spell of playing indoors, the sound of several fireworks caught Kron's attention. Wagging his pendulum-like tail, he raced across the enormous living room and out onto the partially collapsed porch, where he began barking.
+
+Hanna remembered the events being held to celebrate the anniversary of the controversial discovery. Overcome by a strange sensation, she suddenly felt an overwhelming desire to go and see what was happening.
+
+Of course, leaving the enormous abandoned property was not something she normally did with Kron. Even though the neighborhood was not particularly busy, the risk of being spotted by another student—or worse, by one of the school's many teachers or employees—was enough to discourage her from walking through town with her friend.
+
+Fortunately, the house stood on an immense property where the two of them could enjoy complete privacy.
+
+A vast garden surrounded the house. Numerous fountains, sculptures, and other equally extravagant ornaments showed that the estate had once known far better days.
+
+But years of neglect had taken their toll.
+
+Weeds grew unchecked. Most of the statues lay beneath thick blankets of ivy, and the fountains, lifeless and filled with stagnant water—almost putrid in some cases—had become ideal habitats for the many small animals that shared the property with Kron.
+
+Despite all this, the two friends delighted in what might have seemed a desolate landscape to anyone else.
+
+From the moment Hanna discovered the place, she had known she would never find a better shelter for Kron.
+
+That day, however, an unusual silence seemed to fill the great mansion.
+
+The pigeons, magpies, and other birds that normally occupied the garden trees were nowhere to be seen. When they did appear, they flew in groups, strangely silent, moving back and forth in an oddly unnatural fashion.
+
+The little squirrels were missing too. On sunny days, they could often be seen splashing about in the upper basins of the fountains, much to Kron's delight, since he loved chasing them.
+
+In fact, Kron himself seemed different. He wandered restlessly from place to place, and although he enjoyed every moment with Hanna, that afternoon he seemed oddly distracted.
+
+Suddenly, another tremendous bang shattered the silence. The closeness of the explosion made Hanna's heart pound.
+
+Kron did not flinch. Instead, he watched intently as an object fell from the sky. After standing motionless for several seconds, he raced toward it and seized it in his powerful jaws.
+
+“Come here, little one! What have you got there?” Hanna asked curiously.
+
+When she examined the thin wooden stick he was carrying, she could only assume it was a fragment of the firework that had just been launched.
+
+The two went back inside.
+
+After a moment's hesitation, with that strange sensation still refusing to leave her, Hanna decided to venture out and investigate the surrounding area.
+
+Crossing the vast garden, she reached the rear of the property, where a tall, finely crafted metal fence stood. Fallen leaves and thick vegetation made it almost impossible to see through. But by pushing both her long arms between the growth, she managed to glimpse the park.
+
+Only a broad cobblestone path separated it from the estate.
+
+Few people ever passed that way. After spending another minute carefully surveying the area, Hanna decided to try leaving the property.
+
+Ignoring her usually reliable common sense, she was about to call Kron when she realized he was sitting silently beside her, watching with quiet curiosity.
+
+She looked at him in surprise. So absorbed had she been in studying the grounds beyond the fence that she had not noticed him approach.
+
+With the same cleverness and speed she had used to enter earlier, she made her way toward a small gate. Without hesitation, the two slipped outside.
+
+At first, Hanna intended to follow the path until she could see what was happening nearby. But after walking only a short distance, she realized the noise and commotion seemed to be coming from every direction.
+
+She hesitated, almost abandoning the idea. Then she decided to cross the cobblestone path.
+
+With a quick dash, the two disappeared unnoticed into the woods, which grew denser with every step.
+
+This was certainly neither the shortest nor the easiest route. But although Hanna did not know the area particularly well, she understood that taking this path made it highly unlikely they would encounter anyone.
+
+They hurried uphill, for time was running short.
+
+The terrain soon became almost impassable. Thick undergrowth beneath the towering trees made progress increasingly difficult. Even so, they pressed on.
+
+Before they knew it, they had climbed high enough to glimpse, though not without difficulty, the enormous gathering at North Park's main entrance far below.
+
+Hanna studied the scene carefully.
+
+Many people carried signs, and for some time music from the town band's gazebo had been echoing through the valley.
+
+A number of those gathered looked decidedly strange. Some appeared to be wearing costumes, while others sat in circles, holding hands.
+
+Cars and small vans crowded the lovely picnic area, trampling the gardens and crushing beneath their wheels the little flowers that would ordinarily have brightened the park.
+
+This time, taking greater care, Hanna and Kron climbed a little higher over a small rocky outcrop.
+
+They found shelter among some stones and finally stopped, ready to watch what, to our weary young friend, seemed an utterly bewildering spectacle.
+
+Once she had calmed down and caught her breath, Hanna seemed to regain her senses for a moment.
+
+A pang of guilt crossed her mind. Clearly, this unusual rush of events could only lead to trouble.
+
+Yet something inside her made her stomach twist, and watching the strange spectacle below seemed to ease that uncomfortable feeling.
+
+Kron was growing increasingly nervous. He scratched at one spot after another, as though searching endlessly for something among the surrounding rocks.
+
+Hanna tried to calm him, worriedly wondering what time it might be. She had completely lost track.
+
+As the minutes passed, the crowd below grew larger and larger.
+
+Numerous media crews had arrived, and Hanna had the impression that all the commotion she had witnessed at the museum had gradually moved to the park.
+
+Suddenly, a large screen was unveiled, and lights appeared across its surface, seemingly displaying some sort of message.
+
+Before she could make out what it said, the letters changed into enormous numbers.
+
+A countdown had begun.
+
+Seeing the crowd repeatedly glance toward the sky, Hanna concluded that the display showed the time remaining until the eclipse.
+
+Although she needed to hurry back to St. James, she once again gave in to an unusual burst of irresponsibility and decided to stay.
+
+Time crept forward.
+
+The murmurs of the crowd reached her hiding place, and the lively rhythm of the music lent the occasion a distinctly festive air.
+
+Yet neither voices nor music could break the silence that, despite everything happening around her, seemed to dominate her thoughts.
+
+Her heart beat faster and faster.
+
+Kron's obvious nervousness did nothing to ease her own unease. He now ran back and forth, barking without pause.
+
+Each passing minute seemed to make the next one longer. And the closer the countdown came to its end, the more slowly time appeared to move.
+
+At last, the interminable wait seemed to be over.
+
+The effects of the strange natural phenomenon began to appear. Within minutes, the brightness of the clear day faded into twilight.
+
+An eerie atmosphere settled over the landscape, leaving Hanna in a state resembling restless drowsiness.
+
+Even the air seemed to grow thicker.
+
+Meanwhile, the shouting and music gradually faded, almost imperceptibly, until silence finally became the defining presence of the event.
+
+Suddenly, the eclipse reached its maximum phase.
+
+Although Hanna knew the danger of looking directly at the sun, she ignored the warning and stared straight at it.
+
+The sun was completely hidden, yet the force of its rays traced a blazing outline around the moon.
+
+Even that light was enough to blind Hanna for a moment, and she quickly looked away.
+
+At that instant, the countdown ended.
+
+A succession of explosions erupted with such violence that Kron, seized by a fear Hanna had never seen in him before, bolted like a creature possessed toward the sheer, inaccessible rock face rising directly behind them.
+
+Seeing her dog's reaction, Hanna ran after him, almost blind.
+
+He seemed to be carrying something in his jaws, but she could not make out what it was.
+
+She called to him as loudly as she could, but the relentless fireworks made it impossible for her voice to be heard.
+
+Anguish seized her. Ignoring her impaired vision, she raced toward Kron, who was now standing directly before two enormous rocks in the outcrop.
+
+Still running, Hanna breathed a sigh of relief when she saw that her dog had stopped.
+
+The explosions ceased, bringing a brief sense of calm to them both.
+
+But just before she could reach him, the two great rocks suddenly split apart with another deafening crash.
+
+Stunned, and before either of them could react, an immensely powerful torrent of light burst from the small grotto, drawing them in as though it were a black hole.
+
+Powerless against it, they vanished, merging with the light, which disappeared as violently as it had come.
 
 ---
 
