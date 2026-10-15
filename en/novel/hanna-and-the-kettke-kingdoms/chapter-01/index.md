@@ -11,185 +11,335 @@ description: "Read Chapter I of Hanna and the Kettke Kingdoms, Volume I of the H
 
 # CHAPTER I
 
-As she did every day, Hanna woke at seven thirty in the morning to the unpleasant sound of the bell. The first rays of sunlight filtering through the fogged windows of the dormitory announced the end of her peaceful sleep. The night had been cold, and leaving the warmth of her narrow bed was an unwelcome chore. Still, she had no choice. Despite the weariness lingering in her eyes, she went to her wardrobe, put on her uniform, and joined the other students on their way to the dining hall.
+As on every other day, Hanna awoke at seven thirty in the morning to the unpleasant clang of the bell. The first rays of sunlight filtering through the room's fogged windows announced the end of her peaceful sleep. It had been a cold night, and leaving the warmth of her narrow bed was an unwelcome prospect. But she had little choice. Still heavy-eyed with sleep, she went to her wardrobe, put on her uniform, and joined the other students on their way to the dining hall.
 
-Like everyone else, she had to hurry. The school had strict rules, and she knew that arriving late meant beginning another grueling day on an empty stomach.
+Like everyone else, she had to hurry. The school enforced strict rules, and she knew that arriving late meant beginning another grueling day on an empty stomach.
 
-Little by little, the crowded dormitory emptied. Hanna and her roommates filed out amid a great deal of chatter, leaving behind the enormous room, now occupied only by a symmetrical row of small, meticulously made beds.
+Little by little, the crowded dormitory emptied. Hanna and her roommates filed out amid a great deal of noise, leaving behind an enormous room occupied only by symmetrical rows of small, meticulously made beds.
 
-St. James was an old but monumental school, as its thick, imposing walls made clear. Enormous, cold limestone-like stones formed the walls of the corridors in the residential wings. The ceilings rose to magnificent heights, with numerous glass-filled domes through which, on sunny days, a welcome brightness poured down upon everyone passing beneath them.
+St. James was an old but monumental institution, as its thick, imposing walls made abundantly clear. Great blocks of cold, limestone-like stone formed the walls of the residential corridors. High overhead, the ceilings rose magnificently, with numerous glass-domed skylights that, on sunny days, filled the passageways with a welcome brightness.
 
-The imposing complex extended outward from its elliptical central building into three wings. The main entrance led to the academic section. Small classrooms, arranged by grade, occupied the second floor, while the first floor housed the larger rooms used for general activities: the laboratory, the arts and crafts room, the large projection hall, the theater, and several other multipurpose rooms. At the far end of the building, two gigantic doors opened into the dining hall, an immense space with a towering ceiling that was usually the coldest place in the entire school. Because of its size, it also served as an assembly hall whenever most of the school's residents needed to gather. Students and staff could enter through the main entrance or directly from their respective residential wings, which extended to the left and right in two identical buildings.
+The imposing complex extended outward from an elliptical central building into three wings. The main entrance led into the academic section. Small classrooms, arranged by grade, occupied the second floor, while the first housed the larger rooms used by the entire school: the laboratory, the arts and crafts room, the great projection hall, the theater, and several others serving various purposes.
 
-Numerous large rooms opened off either side of the corridors in perfect geometric order. Completing the complex was the library, a semicircular building adjoining the residential wings. Its second floor housed the teachers' offices.
+At the far end of this building, two enormous doors opened into the dining hall, a cavernous space with a towering ceiling that was usually the coldest place in the school. Its sheer size also made it suitable for assemblies whenever most of the institution's residents needed to gather. Students and staff could enter through the main building or directly from their respective residences, which extended to the left and right in two identical wings.
 
-The library could also be reached from the courtyard through a beautiful entrance surrounded by gardens, and its visitors often took advantage of this exit to enjoy a breath of fresh air during their long, exhausting hours of study.
+Large rooms opened along either side of the corridors in perfect geometric order. Completing the arrangement was the library, a semicircular structure adjoining the residential wings. Its second floor housed the teachers' offices.
 
-Other buildings stood throughout the grounds: the gymnasium, the kindergarten, the old and imposing vocational workshop, and many others serving different purposes. All in all, the school was magnificent, though for most of its students it remained little more than a prison.
+The library could also be reached from the courtyard through a lovely entrance surrounded by gardens. Those who studied there often took advantage of that exit to enjoy a breath of fresh air during their long, weary hours with their books.
 
-Despite everything, Hanna was in good spirits. This was a very special day: her fourteenth birthday. Or at least, she had always believed it was. Something told her, however, that breakfast would not consist of an enormous cake covered in candles.
+Other buildings dotted the grounds as well: the sports complex, the kindergarten, the old and imposing vocational workshop, and many others devoted to different activities. All in all, St. James was an impressive institution, though that did not prevent it from feeling like a prison to most of the students who lived there.
 
-Indeed, the long-awaited occasion brought no change to the school's dreary routine. The same lukewarm milk with cocoa served every morning filled the neatly arranged tables in the dining hall, and any hope of an unexpected surprise vanished half an hour later when another dreadful, booming bell announced the beginning of yet another day of demanding classes.
+Despite everything, Hanna was in good spirits. This was a very special day: her fourteenth birthday. Or at least, she had always believed it was. Something told her, however, that breakfast was unlikely to consist of a magnificent cake covered in candles.
 
-Hanna was a rather unusual student, for her grades varied enormously from subject to subject. In literature and languages, she was among the most accomplished students in her class. The same was true of physical education, where she displayed an unmistakable natural talent. Natural science was another of her favorite subjects. Her excellent marks, however, took a spectacular plunge when it came to geography, history, and mathematics, the last of which was a daily nightmare for both Hanna and her teachers.
+And indeed, the occasion brought no change to the school's dreary routine. The same lukewarm milk with cocoa awaited the students at the neatly arranged dining tables. Any hope of an unexpected birthday surprise vanished half an hour later, when another dreadful, resounding bell announced the beginning of yet another demanding day of classes.
 
-As for her behavior, she was well liked by the faculty. They all knew Hanna was a rather special girl, but her strong personality sometimes clashed with the school's discipline. Rules that were supposed to be obeyed without the slightest argument occasionally met with questions from her, and her persistent, if not entirely unreasonable, stubbornness had landed her in trouble more than once.
+Hanna was a rather unusual student, with grades that varied dramatically from one subject to another. In literature and languages, she was among the most gifted students in her class. The same was true of physical education, where she displayed remarkable natural ability. Natural science was another of her favorite subjects.
 
-Clearly, birthday or not, this was not going to be an easy day, and her morning encounter with numbers and formulas proved it.
+Geography, history, and mathematics were an entirely different matter. Her otherwise excellent grades plummeted in those classes, with mathematics proving a daily nightmare for Hanna and her teachers alike.
 
-The morning passed with the same routine as always, and after three interminable classes, recess finally arrived. The students greeted this brief break with noise and excitement, for it offered everyone a welcome breath of fresh air. The moment the loud bell announced the start of their short respite, they all hurried into the courtyard.
+As for her behavior, the faculty generally liked her. They all knew Hanna was something of an exceptional girl, but her strong personality sometimes clashed with the school's discipline. Rules that were supposed to be obeyed without question occasionally met with resistance from her. Her stubbornness was persistent, though not without reason, and more than once it had landed her in trouble.
 
-Despite her cheerful nature, Hanna had lately become rather withdrawn. She usually spent these breaks with her classmates, but their conversations had long since grown monotonous, often revolving around boys, clothes, and other subjects she found equally ridiculous. Instead, she had taken to walking alone in silence, pondering the many questions swirling around inside her restless mind.
+It was clear that, birthday or not, this would be no easy day. Her morning encounter with numbers and formulas soon proved as much.
 
-That day, however, she decided to play soccer. It was hardly her usual pastime, since few boys were willing to test themselves against such an exceptional athlete. But an invitation from some friends, and perhaps the desire for company that this special day stirred in her, persuaded her to join their peculiar game. And peculiar it certainly was. If seeing Hanna play soccer with the boys was unusual, seeing the members of this particular team engage in soccer—or any other sport—was even more so. All of them were unquestionably better at using their heads than their legs. That morning, however, the sudden closure of the library for renovations had driven these young brainiacs out into the courtyard.
+The hours passed in their usual monotonous fashion until, after three seemingly endless classes, recess finally arrived. The brief break was greeted with the customary shouts and excitement. For the students, it was a welcome breath of fresh air. The moment the noisy bell rang, everyone hurried into the courtyard.
 
-"Come on, Hanna! It'll be fun!" said an enthusiastic boy with skinny legs, curly hair, an immaculate uniform, and a pair of oversized glasses that seemed determined to slide off his small nose.
+Despite her cheerful nature, Hanna had lately become rather withdrawn. She usually spent recess with the other girls in her class, but their conversations had grown so predictable—mostly about boys, clothes, and other subjects she found equally ridiculous—that she had taken to wandering alone, silently turning over the many thoughts crowding her restless mind.
 
-"All right," she replied decisively, smiling at Joseph, a boy for whom she felt great affection.
+That day, however, she decided to play soccer.
 
-Without another word, the game began. The sight was so unusual that it soon attracted the attention of the other students. Hanna was the only one who could keep the ball under control, while the same feat seemed almost impossible for the other players. Even so, they never lost their good humor, finding the experience exciting, to say the least. Their efforts were made even more difficult by the terrible condition of the playing field. The only available patch of grass that day had been transformed by the previous night's heavy rain into a muddy swamp full of puddles.
+It was hardly a common occurrence. Few boys were eager to compete against such an accomplished athlete. But an invitation from some friends, together perhaps with her desire for company on a day that meant so much to her, persuaded her to join an unusual game.
 
-Nevertheless, Hanna and her companions were enjoying themselves. They seemed unconcerned that their uniforms were growing wetter and dirtier by the minute, and they paid even less attention to the laughter and jeers of the other students, who now crowded around the makeshift soccer field. Those taunts would probably have been forgotten if the boys in their final year had not decided to interfere.
+And unusual it certainly was. If seeing Hanna play soccer with the boys was uncommon, seeing the members of this particular team engage in soccer—or any sport at all—was stranger still. They were undoubtedly far better at using their heads than their feet. But that morning, the sudden closure of the library for renovations had driven the little group of scholars out into the courtyard.
 
-Perhaps annoyed that they were not the center of attention that day, they made their way toward the spot where everyone's eyes were fixed. With all the arrogance that came from considering themselves the school's senior students, they strode onto the patch of courtyard that had become a temporary playing field. From that moment on, events unfolded in a most unusual way.
+“Come on, Hanna! It'll be fun!” called an enthusiastic boy with skinny legs, curly hair, an immaculate uniform, and a pair of oversized glasses that seemed determined to slide down his small nose.
 
-"How can anyone allow such hopeless, clumsy people to attempt to play soccer at our school?" Frank demanded in his proud, affected voice, trying to attract everyone's attention. He was the leader of that group of scruffy boys.
+“All right,” she replied decisively, smiling at Joseph, a boy for whom she felt great affection.
 
-When he saw that few people had paid any attention to his insult, he marched onto the field in irritation. With a swaggering, bullying air, he abruptly stopped the ball with his foot. Joseph, so absorbed in the game that he had not even noticed what was happening, went sprawling into the mud.
+Without further discussion, the game began.
 
-"Pick up your nerd glasses and get out of my schoolyard!" Frank shouted, glaring at him defiantly.
+The spectacle was so peculiar that it quickly attracted the attention of the other students. Hanna was the only one who could keep the ball under control. For the others, even the simplest maneuver seemed nearly impossible. Nevertheless, they remained cheerful, finding the experience exciting, to say the least.
 
-Joseph and the other boys stared at him in surprise. As far as they were concerned, they had not been bothering anyone, but the alarm in their eyes soon betrayed the fear the situation was beginning to cause them.
+Their efforts were made even more difficult by the condition of the field. The only available patch of grass had been transformed by the previous night's heavy rain into a muddy expanse riddled with puddles.
 
-Suddenly, Frank noticed one of the players approaching him without hesitation. His surprise grew when he realized it was Hanna, who continued forward with determined steps until she stood directly in front of him.
+Still, Hanna and her companions were thoroughly enjoying themselves. They seemed unconcerned that their uniforms were growing wetter and dirtier by the minute. More importantly, they ignored the laughter and mocking remarks of the students now crowding around their makeshift soccer field.
 
-"Leave us alone!" she shouted, furious that he had so rudely interrupted a game he had certainly not been invited to join.
+Those taunts would probably have amounted to nothing if the boys in the senior class had not decided to interfere.
 
-Before Frank could react, she snatched the ball away from his feet with a quick movement, causing him to lose his balance. The moment was so humiliating that his cheeks flushed bright red with embarrassment. That embarrassment turned to anger when he noticed Joseph wearing a faint smile as he tried to clean his glasses.
+Perhaps annoyed that they were not the center of attention that morning, they made their way toward the part of the courtyard where everyone was looking. With all the arrogance they believed their seniority entitled them to, they marched onto the improvised field.
 
-"What are you laughing at, four-eyes?" he demanded, so furious that a thick vein began to bulge along his neck.
+From that moment on, events took a rather unexpected turn.
 
-"I'm... I'm not laughing at anything, Frank," Joseph answered in a trembling voice, unable even to look at his contemptuous schoolmate.
+“How can anyone allow such hopeless, clumsy fools to attempt to play soccer at our school?” demanded Frank in his haughty, affected voice.
 
-"Do you think I'm stupid?" Frank added furiously.
+He was the leader of the scruffy-looking group and clearly hoped to draw everyone's attention.
 
-Then he lunged at him. Both boys fell to the ground and became entangled in what everyone watching could see was a terribly uneven fight, for Joseph was much younger and smaller than Frank.
+When his insult received less of a reaction than he had expected, he strode angrily onto the field. With a swaggering, bullying air, he abruptly stopped the ball beneath his foot.
 
-And that was exactly how it would have remained if Hanna had not decided to intervene once again. She had never fought with another student, much less been involved in any kind of brawl. She had always stayed out of such trouble, but this blatant injustice unleashed a feeling of uncontrollable rage inside her.
+Joseph, so absorbed in the game that he had barely noticed what was happening, went sprawling into the mud.
 
-Quickly grabbing Frank, who was on top of Joseph, she hurled him backward. He landed flat on his back in a large puddle of mud. Everyone stared in astonishment. Frank was an enormous boy, both tall and heavy, and nobody could believe how easily she had thrown him aside.
+“Pick up your nerd glasses and get off my field!” Frank shouted, glaring at him.
 
-Laughter erupted throughout the courtyard. Before anyone could react, teachers burst through the circle that had formed around the scene and seized those involved. Furious, Frank grabbed Hanna by the neck, breaking a beautiful chain she wore. It fell into a small puddle. One of the teachers, Mr. Conery, reached into the mud, retrieved it, and handed it back to its owner. The chain was broken and filthy, though Hanna hardly cared. In fact, at that moment, very little seemed to matter to her at all.
+Joseph and the other boys stared in surprise. As far as they could see, they had not been bothering anyone. But their startled expressions soon betrayed the fear the confrontation was beginning to inspire.
 
-Both students were taken before the school's principal, Mrs. Rowell, whose mere presence was punishment enough. But matters did not end there. After the inevitable lecture, each was confined to their respective dormitory. Before they were sent away, however, Frank, beside himself with rage, swore revenge with a remark that struck Hanna to the heart.
+Suddenly, Frank noticed one of the players approaching him without the slightest hesitation.
 
-Hanna was furious. Although the incident had not been her fault, she had received the harsher punishment because her hot-tempered classmate's parents belonged to an influential family in the city. A feeling of helplessness overwhelmed the devastated girl, who tried unsuccessfully to clean the mud from her uniform. Little by little, her anger gave way to a profound sadness that seemed to fill the enormous room. Sitting on her fragile bed, she gazed at her damaged chain. Then she went to her bedside table and carefully placed it on a small blanket bearing a beautiful embroidered name, now so worn by time that it was barely legible. A tear began to roll down her cheek. She could not drive the last words her furious classmate had shouted from her mind.
+His surprise deepened when he realized it was Hanna. She continued forward with determined steps until she stood directly in front of him.
 
-"You'll pay for this, you damned abandoned girl!" The words echoed relentlessly in her head.
+“Leave us alone!” she shouted, furious that he had so rudely interrupted a game to which he most certainly had not been invited.
 
-Burying her face in her pillow, she could no longer hold back her tears. She cried until, overcome by sorrow, she finally fell asleep.
+Before Frank could react, Hanna made a swift move and snatched the ball from his feet, causing him to lose his balance.
 
-For we must not forget that this brave young girl's life had never been easy. Abandoned to her fate at birth, with no knowledge of her parents' whereabouts or of any close relatives, Hanna had spent her entire life confined to St. James. There, under the care of the state, she had grown up in a boarding school where boys and girls of every age, background, and social standing lived together. For those without families, loneliness was a heavy burden. Resignation offered most of them little comfort, but Hanna had never lost hope. She refused to believe that she meant nothing to anyone. Something deep inside told her that one day she would find an explanation, although she knew better than anyone that it might be a wish that would never come true.
+The humiliation was almost too much for him. His cheeks flushed bright red, and his embarrassment turned to anger when he caught sight of Joseph wearing a faint smile as he tried to clean his glasses.
 
-Several hours after falling into a deep sleep, Hanna awoke to the sound of the heavy dormitory door opening. Still half asleep, she saw Joseph enter, accompanied by Miss Hings, a friendly young teacher carrying a large bowl of hot soup.
+“What are you laughing at, four-eyes?” Frank snarled, so furious that a thick vein began to bulge along his neck.
 
-"Here, drink this. You must be starving," she said kindly.
+“I… I'm not laughing at anything, Frank,” Joseph stammered, unable even to look his contemptuous schoolmate in the eye.
 
-Hanna did not hesitate to obey, for she was indeed ravenous. Joseph then explained that he had spoken to Mrs. Rowell. Thanks to his excellent reputation among the teachers, and after hearing his account of what had happened, the principal had agreed to lift Hanna's punishment.
+“Do you take me for an idiot?” Frank demanded.
 
-"Get changed, quick! We're going to visit the museum!" he exclaimed with boundless excitement.
+Then he lunged at him.
 
-A few minutes later, Hanna was sitting on the bus, waiting to set off for the city center. She and Joseph had settled into seats near the front. Her expression still betrayed her mood, but her friend's excitement about the outing soon began to rub off on her. Within minutes, her familiar smile had returned.
+Both boys crashed to the ground and became entangled in what everyone watching could see was a hopelessly unequal fight. Joseph was much younger and smaller than Frank.
 
-The bus, an old Plaxton Panorama, started without much delay. A dark cloud of smoke billowed from its soot-blackened exhaust pipe, and the entire vehicle began vibrating in a rather suspicious manner. Nobody seemed alarmed, however, for the aging bus had traveled countless miles without ever causing a problem. And so, with its powerful engine roaring, they set off.
+And that was how the fight would have continued if Hanna had not intervened once again.
 
-For many of the children filling the bus, the trip to the museum was one of the few opportunities they had to escape St. James, since their age required them to remain inside the school grounds all day. That was no longer the case for Hanna. For some time, she had enjoyed certain privileges, and each afternoon, once her school duties were finished, she was allowed a couple of hours of freedom to spend as she pleased, provided she observed a long list of restrictions. Joseph, however, had not yet been granted such liberties, and the outing filled him with delight. His enthusiasm showed in his endless chatter. All Hanna could do was listen, and long before they reached their destination, she knew everything about the reason for this hastily arranged excursion.
+She had never fought with another student, much less been involved in a serious altercation. She had always kept herself out of such trouble. But the sight of such blatant bullying filled her with a rage she could no longer control.
 
-"I'm sure we're going to see something incredible," Joseph said with a grin, pushing his perpetually slipping glasses back into place.
+Quickly grabbing Frank, who was on top of Joseph, she hauled him backward.
 
-"Incredible?"
+He landed flat on his back in a large puddle of mud.
 
-"Yes, Hanna. A strange animal. Miss Hings has talked about it more than once."
+Everyone stood astonished. Frank was an enormous boy, both tall and heavy, and nobody could believe how easily Hanna had thrown him aside.
 
-"I don't remember."
+Laughter erupted across the courtyard.
 
-Joseph stared at her in surprise. He could not understand how his friend could show so little interest in what they were about to see. But Hanna's thoughts were still occupied by the morning's incident.
+Before anyone could react, teachers pushed through the circle that had formed around the students and seized those involved in the incident.
 
-"How can you not remember?" he continued excitedly. "The one they found in North Park."
+Frank, still furious, grabbed Hanna by the neck, breaking her beautiful chain and sending it into a small puddle.
 
-"I'd forgotten."
+One of the teachers, Mr. Conery, reached into the mud, retrieved the chain, and handed it back to its owner.
 
-"People come to the city from all over for the anniversary of the discovery! But today is especially important because there's going to be a solar eclipse identical to the one that happened when they first found it. Everyone's going to be watching!" Joseph exclaimed, rising from his seat in one final attempt to capture Hanna's attention.
+It was broken and filthy, though Hanna scarcely cared. At that particular moment, there were very few things she cared about at all.
 
-"I'm sure it'll be very interesting," she replied, smiling at her friend's enthusiasm, for she really had heard about the creature before.
+Both students were taken before the school's principal, Mrs. Rowell, whose mere presence was punishment enough.
 
-Joseph was right. The excitement surrounding the event was considerable, as the bus's difficulty reaching the museum clearly demonstrated. There were large numbers of visitors from out of town, along with journalists and a police presence that Hanna considered excessive for her normally peaceful city.
+Unfortunately, matters did not end there. After the inevitable lecture, each was confined to their respective room. Before they were separated, however, Frank, beside himself with rage, swore revenge with a remark that struck Hanna to the heart.
 
-Miss Hings, who was accompanying them as their science teacher, was the first to step off the bus. A minute later, the students began entering the museum in orderly fashion. The famous building was packed, and the exhibits Hanna remembered from previous visits were nowhere to be seen. The only thing visible above the sea of heads was an enormous glass tank standing in the center of the main hall.
+Hanna was furious. Although the incident had not been her fault, she had received the harsher punishment because her hot-tempered schoolmate's parents belonged to an influential family in the city.
 
-Suddenly, a rather fat, breathless man approached the group. After greeting Miss Hings warmly, he began what promised to be a pleasant conversation.
+A sense of helplessness overwhelmed her. Thoroughly miserable, she tried in vain to clean her mud-stained uniform.
 
-"Hello, Mary. It's wonderful to see you," he said between labored breaths, wiping the sweat from his prominent forehead with a handkerchief.
+Little by little, her anger gave way to a profound sadness that seemed to fill the enormous dormitory.
 
-"You too, Dr. Hern. It seems the exhibit is a tremendous success. I've never seen so many people in the museum."
+Sitting on her narrow, unsteady bed, she stared at her damaged chain. Then she went to her bedside table and carefully placed it on a small blanket. Embroidered into the fabric, in beautiful stitching worn almost beyond recognition by the passing years, was her name.
 
-Hanna watched the man with curiosity. He looked as though he might have a heart attack at any moment.
+A tear began to roll down her cheek.
 
-"He's the director of the Metropolitan Museum," Joseph whispered to her.
+She could not drive away the final words her enraged schoolmate had shouted at her.
 
-The noise in the hall made it difficult to hear, but the two friends, standing near the front of the group, made a determined effort to catch what Dr. Hern was telling their teacher.
+*“You'll pay for this, you damned abandoned girl!”*
 
-"It's been a crazy day!" he exclaimed breathlessly. "But hardly surprising. There's no record of a scientific discovery as extraordinary as this one."
+The words echoed mercilessly in her mind.
 
-"I'm sure there isn't."
+Burying her face in her pillow, she broke down in tears. Eventually, exhausted by grief, she fell asleep.
 
-"Its tour of the world's most important museums left no one indifferent. But this is madness!"
+And we must not forget that life had never been easy for this courageous young girl.
 
-"Today really is a special day. It's strange that another eclipse should coincide with the anniversary."
+Abandoned to her fate from birth, with no knowledge of where her parents or any other relatives might be, Hanna had spent her entire life at St. James. There, under the guardianship of the state, she had grown up in a boarding school where boys and girls of every age, background, and social standing lived together.
 
-"Yes, very strange. Many people believe there's a connection between the creature, the eclipse, and the powerful light that emerged from the hill before it was discovered. But the truth is, science has been unable to prove any such connection."
+For those without families, loneliness was a particularly heavy burden.
 
-Hanna, who had shown little interest at first, began paying closer attention. Although she had heard about the strange "creature" before, she had always ignored the stories surrounding it. This time, however, perhaps because of the passion with which the large man spoke, she found herself almost hypnotized, listening intently as the conversation continued.
+Most learned to resign themselves to it, though resignation offered little comfort. Hanna, however, had never abandoned hope. She refused to believe she meant nothing to anyone.
 
-"Have you managed to discover anything else about it?" Miss Hings asked with interest.
+Something deep inside told her that one day she would find an explanation.
 
-"Unfortunately, no. The witnesses who found it said it spoke in a strange language, but to this day, nothing is known about that language."
+Even so, she knew better than anyone that this might be a wish that would never come true.
 
-"It's a shame it died only hours later."
+Several hours after falling into a deep sleep, Hanna awoke to the sound of the heavy dormitory door opening.
 
-"Yes, a terrible shame. According to the numerous tests we've conducted, its cognitive development was somewhat below that of humans. Yet despite its animal-like, almost human morphology, there's nothing comparable to it among the living creatures of our planet. We're still searching for answers, but so far without success."
+Still half asleep, she saw Joseph enter with Miss Hings, a kind, young teacher carrying a large bowl of hot soup.
 
-"Some people already have an answer for you," the teacher added with a smile, pointing toward a group of people outside holding large signs.
+“Here, drink this. You must be starving,” the teacher said gently.
 
-"Uncertainty only encourages the wildest theories about its appearance, and there are plenty of them. I'm sure many of those visiting the city today believe they're going to witness something supernatural."
+Hanna needed no encouragement. She was indeed ravenous.
 
-"And what do you think about that?"
+Afterward, Joseph explained that he had spoken to Mrs. Rowell. Thanks to his excellent reputation among the teachers, and after hearing his account of what had happened, the principal had agreed to lift Hanna's punishment.
+
+“Get changed, quick! We're going on a trip to the museum!” he exclaimed with infectious excitement.
+
+A few minutes later, Hanna was sitting on the bus, waiting to set off for the city center.
+
+She and Joseph had taken seats near the front. Her expression still betrayed her earlier misery, but her friend's excitement about the outing soon began to rub off on her. Before long, her familiar smile returned.
+
+The bus, an old Plaxton Panorama, started without much delay. After belching a dark cloud of smoke from its soot-blackened exhaust pipe, the entire vehicle began vibrating in a rather suspicious manner.
+
+Nobody seemed alarmed, however. The aging bus had traveled countless miles without giving them any trouble.
+
+And so, with a roar from its powerful engine, they set off.
+
+For many of the children aboard, a trip to the museum was one of their few opportunities to escape St. James. Because of their age, they were required to remain within the school grounds throughout the day.
+
+Hanna was an exception. For some time now, she had enjoyed certain privileges. Each afternoon, after completing her schoolwork and other duties, she was allowed a couple of hours of freedom to spend as she pleased, although a long list of restrictions still applied.
+
+Joseph had not yet been granted such liberties, and the excursion delighted him.
+
+His pleasure was evident in his endless chatter.
+
+Hanna could do little but listen, and by the time they reached their destination, she had learned everything about the reason for this hastily arranged outing.
+
+“I'm sure we're going to see something incredible,” Joseph said with a grin, pushing his perpetually slipping glasses back up his nose.
+
+“Incredible?”
+
+“Yes, Hanna. A strange animal. Miss Hings has talked about it more than once.”
+
+“I don't remember.”
+
+Joseph stared at her in surprise. He could not understand why his friend seemed so indifferent to what they were about to see.
+
+But Hanna's thoughts were still occupied by the morning's confrontation.
+
+“How can you not remember?” he continued excitedly. “The one they found in North Park.”
+
+“Oh. I'd forgotten.”
+
+“People come to the city from all over on the anniversary of its discovery! But today is especially important because there's going to be a solar eclipse identical to the one that happened when it was first found. Everyone's going to be there!”
+
+Joseph practically rose from his seat in one final attempt to capture Hanna's attention.
+
+“I'm sure it'll be very interesting,” she replied, smiling at her friend's enthusiasm.
+
+In truth, she had heard about the creature before.
+
+Joseph was not mistaken about the excitement surrounding the event.
+
+The bus had considerable difficulty reaching the museum, which was evidence enough of the crowds. Many visitors had come from outside the city. There were journalists, too, and a police presence Hanna considered excessive for her normally peaceful hometown.
+
+Miss Hings, who accompanied the group as their science teacher, was the first to step off the bus.
+
+A minute later, the students began filing into the museum in impeccable order.
+
+The celebrated building was packed. The exhibits Hanna remembered from earlier visits were nowhere to be seen. The only thing visible above the sea of heads was an enormous glass container standing in the center of the main hall.
+
+Suddenly, a rather overweight, exhausted-looking gentleman approached the group. After introducing himself to Miss Hings in a friendly manner, he began what promised to be a pleasant conversation.
+
+“Hello, Mary. It's wonderful to see you,” he said between uneven breaths, wiping the sweat from his prominent forehead with a handkerchief.
+
+“You too, Dr. Hern. The exhibition seems to be a tremendous success. I've never seen so many people in the museum.”
+
+Hanna watched the man with curiosity. He looked as though he might suffer a heart attack at any moment.
+
+“He's the director of the Metropolitan Museum,” Joseph whispered.
+
+The noise in the hall made it difficult to hear much of anything. Nevertheless, Hanna and Joseph, standing near the front of the group, made an effort to catch what Dr. Hern was so eagerly telling their teacher.
+
+“I've had an absolutely frantic day!” he exclaimed breathlessly. “But it's hardly surprising. There's no record of a scientific discovery as extraordinary as this one.”
+
+“I'm sure there isn't.”
+
+“Its tour of the world's most important museums left no one indifferent. But this is madness!”
+
+“Today really is a special day. It's strange that another eclipse should coincide with the anniversary.”
+
+“Yes, very strange. Many people believe there's a connection between the creature, the eclipse, and the powerful light that emerged from the hill before it was discovered. But the truth is, science has been unable to prove any such connection.”
+
+Hanna, who had initially shown little interest, began listening more closely.
+
+Although she had heard stories about the strange *creature*, she had always paid them little attention. This time, perhaps because of the passion with which the large man spoke, she found herself almost hypnotized by the conversation.
+
+“Have you managed to discover anything more about it?” Miss Hings asked with interest.
+
+“Unfortunately, no. The witnesses who found it claimed it spoke in a strange language, but to this day we know nothing about it.”
+
+“It's such a shame it died only hours afterward.”
+
+“Yes, a terrible shame. The many tests we've conducted indicate that its cognitive development was somewhat below that of a human being. Nevertheless, despite its animal-like, almost human anatomy, it bears no resemblance to any other living creature on our planet. We're still searching for answers, but so far without success.”
+
+“Some people already seem to have an answer,” the teacher remarked with a smile, pointing toward a group outside carrying large signs.
+
+“Uncertainty only encourages the wildest theories about its appearance, and there are plenty of those. I'm sure many of the people in the city today expect to witness something supernatural.”
+
+“And what do you think about all that?”
 
 The doctor leaned closer to Miss Hings.
 
-"Keep this between us," he whispered. "I have absolutely no doubt that its origins are extraterrestrial. But..." He raised his voice. "Don't expect a spaceship to come looking for it!"
+“Keep this between us,” he whispered. “I'm absolutely convinced it isn't of earthly origin. But…”
 
-They both laughed heartily, while Hanna struggled to believe what she had just heard.
+He raised his voice again.
 
-Before long, the group began to grow impatient, for the conversation had continued longer than necessary. The teacher and the doctor finally decided to make their way through the crowded hall toward the mysterious glass tank.
+“Don't expect a spaceship to come and collect it.”
 
-After waiting their turn in the long line of curious visitors, the students passed one by one in front of a protective glass barrier. The central area of the hall was dimly lit, and a bright spotlight shone from the bottom of the tank, illuminating its interior. Inside, the creature floated suspended in a somewhat viscous substance. Curled into a fetal position, its head seemed to gaze at each person passing before it. The sight was rather sinister, for the creature bore a certain resemblance to a human being. Hanna, who was the first to pass, seemed to freeze at the sight of it. An icy shiver ran through her body as she stood before the peculiar animal.
+They both laughed openly, while Hanna struggled to believe what she had just heard.
 
-It was plump and potbellied, though powerfully built, and appeared quite short. Its body was covered in a thick layer of whitish fur, much of it now in poor condition. Numerous sores covered its body, and a large scar along its side appeared to be an old one. But what struck Hanna most was its face. Its expression revealed anguish, terrible anguish. The sight affected her so deeply that she seemed turned to stone. Joseph had to give her a little shove to make her move along, and he, too, must have felt a shiver of fear, for the force of his push sent him stumbling against the glass. When he found himself face-to-face with the creature, which seemed to be staring directly at him, he let out a bloodcurdling scream. The effect on the group was unmistakable, and many of the remaining students hurried past the tank, barely daring to look inside.
+Before long, the students began growing restless. The conversation had continued rather longer than necessary, so the teacher and the doctor decided to make their way through the crowded hall toward the mysterious glass container.
 
-Miss Hings, the last to walk through the narrow passage, also realized that perhaps the exhibit was not entirely suitable for children so young. When she mentioned this to Dr. Hern, he explained that although the creature was normally kept in the museum's storage area, protected from anything that might damage it, and was displayed to the public only on rare occasions, its condition had deteriorated considerably in recent times. Its present appearance was very different from what it had originally been.
+After waiting their turn in the lengthy line of curious visitors, the students passed one by one before a protective glass barrier.
 
-After the brief visit, and once they had said goodbye to the kindly doctor, Miss Hings gathered her students together. Little by little, in the same orderly fashion as before, they returned to their seats on the bus.
+The center of the hall was dimly lit. A bright beam of light shone upward from the bottom of the container, illuminating its interior.
 
-Unlike the noisy journey there, the return trip to school passed in silence. The few murmurs that could be heard were not enough to disturb the stillness that the brief but intense visit had cast over the children. Joseph did not say a word. He seemed absorbed in watching the scenery through the bus's front windshield. Hanna, meanwhile, kept her eyes fixed on the horizon as she struggled to absorb all the feelings stirred within her by the sight of that strange creature. Her uneven breathing betrayed her nervousness, and although she tried to suppress any outward sign of what she was experiencing, Miss Hings noticed. Approaching Hanna's seat, she took the girl's hand and looked at her with concern.
+Inside, the creature floated in a somewhat viscous substance.
 
-"Are you feeling all right, Hanna?" she asked with her usual kindness.
+Curled into a fetal position, its head seemed to turn toward each person who passed before it.
 
-"I'm a little dizzy, but it's nothing," Hanna replied, avoiding her gaze.
+The sight was distinctly unsettling, for the creature possessed an almost human appearance.
 
-The teacher returned to her seat without giving the matter much thought, aware that her student had been through a day filled with intense emotions.
+Hanna was the first of the students to approach, and the moment she saw it, she seemed to freeze.
 
-But what Hanna was experiencing was not dizziness. She herself did not know what was happening to her, yet that fleeting glimpse had awakened more feelings within her than she could ever have imagined.
+An icy sensation ran through her body as she stood before the extraordinary being.
+
+It was plump, with a round belly, though clearly very strong, and appeared to be rather short. Its body was covered in a thick layer of whitish fur, now badly deteriorated, probably because of the time it had spent inside the container.
+
+Numerous sores marked its body, and a large scar along its side appeared to be an old one.
+
+But what struck Hanna most was its face.
+
+Its expression revealed anguish.
+
+Terrible anguish.
+
+The sight affected her so deeply that she seemed turned to stone.
+
+Joseph had to give her a gentle shove to make her move along. And he, too, must have felt a shiver of fear, for the force of his own push sent him stumbling against the glass.
+
+Finding the creature's face so close to his own, seemingly staring straight at him, Joseph let out a bloodcurdling scream.
+
+His reaction unsettled the rest of the group. Many of the students hurried past the container afterward, barely daring to look inside.
+
+Miss Hings was the last to walk through the narrow passageway. By then, she, too, had begun to suspect that the exhibit might be unsuitable for children so young.
+
+When she mentioned this to Dr. Hern, he explained that although the creature was normally kept in the museum's storage facilities, protected from anything that might damage it, and was only rarely displayed to the public, its condition had deteriorated dramatically of late.
+
+Its present appearance, he added, was very different from how it had originally looked.
+
+After the brief visit, and having said goodbye to the kindly doctor, Miss Hings gathered her students together.
+
+Little by little, with the same orderly precision as before, they returned to their seats on the bus.
+
+The journey back to school was very different from the noisy ride into the city.
+
+This time, silence prevailed.
+
+The few murmured conversations were not enough to disturb the quiet that the short but intense visit had cast over the children.
+
+Joseph did not say a word. He seemed absorbed in watching the scenery through the bus's front windshield.
+
+Hanna, meanwhile, kept her eyes fixed on the horizon as she struggled to make sense of the sensations that the sight of that strange being had awakened within her.
+
+Her uneven breathing betrayed her nervousness. She tried to suppress any outward sign of what she was feeling, but Miss Hings noticed.
+
+The teacher approached Hanna's seat, took her hand, and looked at her with concern.
+
+“Are you feeling all right, Hanna?” she asked with her usual kindness.
+
+“I'm a little dizzy, but it's nothing,” Hanna replied, avoiding her gaze.
+
+Miss Hings returned to her seat without giving the matter much further thought. She knew her student had experienced an unusually emotional day.
+
+But dizziness was not what Hanna was truly feeling.
+
+She herself had no idea what was happening to her.
+
+All she knew was that the fleeting sight of that strange creature had stirred feelings within her far more powerful than anything she could ever have imagined.
 
 ---
 
