@@ -6,6 +6,50 @@ permalink: /
 description: "Bienvenido a Kettke, el Reino de los Reinos. Descubre la aventura de Hanna, lee el primer volumen de su trilogía y explora un universo fantástico de reinos, criaturas, pueblos, leyendas y lenguas propias a través de su Atlas oficial."
 ---
 
+<script>
+(function () {
+  const params = new URLSearchParams(window.location.search);
+  const selected = params.get("lang");
+
+  // Respect an explicit language choice.
+  if (selected === "es" || selected === "en") {
+    try {
+      localStorage.setItem("kettke-language", selected);
+    } catch (e) {}
+
+    if (selected === "en") {
+      window.location.replace("/en/");
+    }
+    return;
+  }
+
+  // Respect a previously saved preference.
+  let preferred = null;
+
+  try {
+    preferred = localStorage.getItem("kettke-language");
+  } catch (e) {}
+
+  if (preferred === "es") return;
+
+  if (preferred === "en") {
+    window.location.replace("/en/");
+    return;
+  }
+
+  // Use the browser's highest-priority language.
+  const languages = navigator.languages || [
+    navigator.language || "es"
+  ];
+
+  const primaryLanguage = languages[0].toLowerCase();
+
+  if (primaryLanguage.startsWith("en")) {
+    window.location.replace("/en/");
+  }
+})();
+</script>
+
 # Bienvenidos a Kettke
 
 ## El Reino de los Reinos
